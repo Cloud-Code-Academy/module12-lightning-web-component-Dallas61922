@@ -1,0 +1,17 @@
+.resultText {
+    font-weight: bold;
+    font-size: x-large;
+}
+
+.scoreText {
+    color: rgb(241, 68, 160);
+}
+
+.resourceText {
+    text-align: left;
+    color: blue;
+}
+
+.resourceText li:first-child {
+    font-weight: bold;
+}
